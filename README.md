@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&random=false&width=440&height=80&lines=AI+%7C+ML+Engineer;Full+Stack+Web+Developer;MLOps+Engineer;Data+Engineering)](https://git.io/typing-svg)
 
-I'm a 3rd year student who is working on projects in field of Machine Learning, Artificial Intelligence and full-stack development. I love developing things one step at a time, planning in mind how to achieve the overall Goal. Doing things this way gives me small small moment of happiness all the time. All coding projects are built from the ground up, all the way till solving all the problems and deployment. I would now love to work in an organizational setup to hone my skills further and be prepared for future. If you like what you are seeing and want me to work for you, please contact me through any of the socials given below.
+I'm a 3rd year student who is working on projects in field of Machine Learning, Artificial Intelligence and full-stack development. I love developing things one step at a time, planning in mind how to achieve the overall Goal. Doing things this way gives me small small moment of happiness all the time. All coding projects are built from the ground up, all the way till solving all the problems and deployment. I would now love to work in an organizational setup to hone my skills further and be prepared for future. If you like what you are seeing and want me to work for you, please contact me through any of the ways given below.
 
 <br/>
 
