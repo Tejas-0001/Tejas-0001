@@ -1,5 +1,6 @@
-### Hi there 👋
+# 🏄‍♂️ Tejas Raj
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&random=false&width=440&height=80&lines=AI+%7C+ML+Engineer;Full+Stack+Web+Developer;MLOps+Engineer;Data+Engineering)](https://git.io/typing-svg)
 <!--
 **Tejas-0001/Tejas-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
