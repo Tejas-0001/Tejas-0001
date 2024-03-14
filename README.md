@@ -9,14 +9,22 @@ I'm a 3rd year student who is working on projects in field of Machine Learning, 
 <p align="center">
 <a href="https://www.linkedin.com/in/tejasraj0001/"><img width="32px" alt="Linked In" title="Linked In" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://drive.google.com/file/d/1PX5bP5gZgY8yMfWmRy9VnpnnXBda4yeh/view?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://twitter.com/Tejas_0001"><img style="background-color:white;" width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://discordapp.com/users/397313849503514626" alt="Discord" title="Discord Id"><img width="32px" src="https://img.icons8.com/offices/40/discord--v2.png"/></a>
+  <a href="http://discordapp.com/users/397313849503514626" alt="Discord" title="Discord"><img width="32px" src="https://img.icons8.com/offices/40/discord--v2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/color/48/gmail-new.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1PX5bP5gZgY8yMfWmRy9VnpnnXBda4yeh/view?usp=sharing"><img width="32px" title="Resume" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>
+<!--   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/color/48/gmail-new.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  
 </P>
+
+---
+
+### 👨‍💻 Programming and Markup Languages :
+
+
+
 
 <!--
 **Tejas-0001/Tejas-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
