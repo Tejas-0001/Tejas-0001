@@ -9,7 +9,7 @@ I'm a 3rd year student who is working on projects in field of Machine Learning, 
 <p align="center">
   <div style="background-color: white; -webkit-mask-image: url(image.svg); mask-image: url(image.svg);"></div>
 
-<a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="Linked In" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/tejasraj0001/"><img width="32px" alt="Linked In" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img style="background-color:white;" width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
